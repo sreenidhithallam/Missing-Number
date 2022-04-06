@@ -1,14 +1,8 @@
 
-
-## Test Specs ScreenShot for Reference
-![Screenshot]()
-  
-
 <h2 align="center">Coding Problem</h2>
 <p align="center">smallest missing positive natural number</p>
 
 <br>
-
 
 ## Problem Statement
 Given an array of integers, return the smallest missing positive natural number.
@@ -32,11 +26,11 @@ High level directory structure for this repository:
 
 ### 1. Clone the project
 ```bash
-$ git clone https://github.com/sreenidhithallam/MissingNumber
+$ git clone https://github.com/sreenidhithallam/Missing-Number.git
 ```
 
 ```bash
-$ cd MissingNumber
+$ cd Missing-Number
 ```
 
 ### 2. Install packages
@@ -55,4 +49,4 @@ $ npm run test:coverage
 ##  Screenshots
 
   ### Fig 1 : Test Coverage
-  ![Screenshot](https://github.com/sreenidhithallam/missing-number/blob/main/screenshots/testCoverage.png)
+  ![Screenshot](https://github.com/sreenidhithallam/Missing-Number/blob/main/screenshots/testCoverage.png)
