@@ -1,0 +1,16 @@
+{
+  "name": "missingnumber",
+  "version": "1.0.0",
+  "description": "Finding the first missing natural number",
+  "main": "firstMissingNaturalNumber.js",
+  "scripts": {
+    "test": "mocha",
+    "test:coverage": "nyc --reporter=text mocha"
+  },
+  "author": "Sreenidhi Thallam",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.2.2",
+    "nyc": "^15.1.0"
+  }
+}
