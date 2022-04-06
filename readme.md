@@ -26,11 +26,11 @@ High level directory structure for this repository:
 
 ### 1. Clone the project
 ```bash
-$ git clone https://github.com/sreenidhithallam/MissingNumber
+$ git clone https://github.com/sreenidhithallam/Missing-Number.git
 ```
 
 ```bash
-$ cd MissingNumber
+$ cd Missing-Number
 ```
 
 ### 2. Install packages
