@@ -20,9 +20,6 @@ describe('Test firstMissingNaturalNumber Logic', function () {
     it('should return 1 when input array has only negative numbers as elements', function () {
         assert.equal(firstMissingNaturalNumber([-1, -4, -8]), 1);
     });
-    it('should return 1 when input array has only negative numbers as elements', function () {
-        assert.equal(firstMissingNaturalNumber([-1, -4, -8]), 1);
-    });
     it('should return 1 when input array has all elements greater than array length', function () {
         assert.equal(firstMissingNaturalNumber([10, 45, 23]), 1);
     });
